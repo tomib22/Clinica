@@ -117,7 +117,7 @@ for (let i = 0; i < pacientes.length; i++) {
 }
 
 function calcularIMC(peso, altura) {
-    var imc = peso / (altura * altura)
+    let imc = peso / (altura * altura)
     return imc.toFixed(2)
 }
 
