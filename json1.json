@@ -4,41 +4,41 @@
     "peso": 73,
     "altura": 1.72,
     "gordura": 40,
-    "imc": 0
+    "imc": 24.68
   },
   {
     "nombre": "Erica",
     "peso": 54,
     "altura": 1.70,
     "gordura": 14,
-    "imc": 0
+    "imc": 18.69
   },
   {
     "nombre": "Diego",
     "peso": 85,
     "altura": 1.73,
     "gordura": 24,
-    "imc": 0
+    "imc": 28.40
   },
   {
     "nombre": "Tatiana",
     "peso": 46,
     "altura": 1.55,
     "gordura": 19,
-    "imc": 0
+    "imc": 19.15
   },
   {
     "nombre": "Pedro",
     "peso": 70,
     "altura": 1.68,
     "gordura": 23,
-    "imc": 0
+    "imc": 24.80
   },
   {
     "nombre": "Maria",
     "peso": 54,
     "altura": 1.60,
     "gordura": 17,
-    "imc": 0
+    "imc": 21.48
   }
 ]
