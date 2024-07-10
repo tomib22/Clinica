@@ -1,3 +1,2 @@
 El objetivo de esta página es que sea una pagina de carga de datos interna de un centro de nutrición. A la misma podran acceder profesionales en donde registren datos de los pacientes para poder utilizarlos en un futuro.
 Si bien la pagina de la clinica deberia tener una parte principal donde el profesional se pueda loguear,omiti la parte del login siguiendo las instrucciones del proyecto final. Me enfoque en que salga bien la carga de pacientes en la tabla,obteniendo datos del archivo JSON y almacenandolos localmente.
-Tuve dos errores que no pude solucionar que fueron el tema de CORPS(intente con la extension live server) y un error de que no me tomo los datos del archivo JSON.
